@@ -5,6 +5,7 @@
 #define AREA_CIRCULO(r) (PI * (r) * (r))
 
 int main() {
+    std::cout << "¡Hola CLion!" << std::endl;
     int a = 5, b = 3;
     int resultado_suma = suma(a, b);
     int resultado_resta = resta(a, b);
