@@ -1,0 +1,21 @@
+# ninja log v5
+1	66	7192655332976715	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	250daf354c2fdea6
+1	66	7192655332976715	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	250daf354c2fdea6
+1	3619	7192655524187229	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	86b4db1be2cfc47a
+1	3619	7192655524187229	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	86b4db1be2cfc47a
+3620	3738	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a22074cc97a73244
+3620	3738	0	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a22074cc97a73244
+3738	3783	7192655525826608	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	f7fb82e964569ff9
+3738	3783	7192655525826608	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	f7fb82e964569ff9
+3783	3831	7192655526305156	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	1f564a8cee97d462
+3783	3831	7192655526305156	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	1f564a8cee97d462
+3832	3879	7192655526786215	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3a7a12e7b7697813
+3832	3879	7192655526786215	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	3a7a12e7b7697813
+3879	3926	7192655527255349	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	3a46f1d4f402295d
+3879	3926	7192655527255349	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	3a46f1d4f402295d
+3926	3974	7192655527730946	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	cc7d6b0a31503b4c
+3926	3974	7192655527730946	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	cc7d6b0a31503b4c
+3974	4041	7192655528388832	CMakeFiles/fmt-populate-complete	3229147b6851a211
+3974	4041	7192655528388832	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3229147b6851a211
+3974	4041	7192655528388832	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	3229147b6851a211
+3974	4041	7192655528388832	C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3229147b6851a211

@@ -1,0 +1,7 @@
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/CMakeFiles/P4.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/aads7/CLionProjects/P4/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
