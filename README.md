@@ -1,6 +1,10 @@
 # P-resto
 Paso 1, 2, 3, 4 y 5 de Colección de Ejercicios para Nociones Clave
 
+El P1 contiene el paso 1 y 2
+
+El P4 contiene el paso 3, 4 y 5
+
 Paso 1
 
 Añadí "Hola Mundo" en el main.cpp y luego seguí con las instrucciones añadiendo una variable global g = 20 y luego las sumas con a, b y g.
