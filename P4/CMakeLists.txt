@@ -21,4 +21,4 @@ add_library(matematicas SHARED funciones.cpp)
 
 FetchContent_MakeAvailable(fmt)
 
-target_link_libraries(P4 PRIVATE matematicas)
+target_link_libraries(P4 PRIVATE fmt::fmt)
