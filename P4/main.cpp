@@ -6,7 +6,7 @@
 #define AREA_CIRCULO(r) (PI * (r) * (r))
 
 int main() {
-    fmt::print("¡Hola CLion!");
+    fmt::print("¡Hola CLion!\n");
     int a = 5, b = 3;
     int resultado_suma = suma(a, b);
     int resultado_resta = resta(a, b);
