@@ -6,7 +6,6 @@
 #define AREA_CIRCULO(r) (PI * (r) * (r))
 
 int main() {
-    fmt::print("¡Hola CLion!\n");
     int a = 5, b = 3;
     int resultado_suma = suma(a, b);
     int resultado_resta = resta(a, b);
@@ -16,7 +15,7 @@ int main() {
     double radio = 5;
     double area = AREA_CIRCULO(radio);
 
-
+    fmt::print("¡Hola CLion!\n");
     std::cout << "Resultado de la suma: " << resultado_suma << std::endl;
     std::cout << "Resultado de la resta: " << resultado_resta << std::endl;
     std::cout << "Resultado de la multiplicacion: " << resultado_multiplicacion << std::endl;
