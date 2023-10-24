@@ -17,8 +17,9 @@ FetchContent_Declare(
         GIT_TAG        7.1.3
 )
 
-add_library(matematicas SHARED funciones.cpp)
+add_library(matematicas SHARED funciones.cpp
+        hola/main.cpp)
 
 FetchContent_MakeAvailable(fmt)
 
-target_link_libraries(P4 PRIVATE matematicas)
+target_link_libraries(P4 PRIVATE fmt::fmt)
